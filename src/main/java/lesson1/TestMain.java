@@ -2,6 +2,7 @@ package lesson1;
 
 public class TestMain {
     public static void main(String[] args) {
+        //Комар Ольга , дз 1
         Identity person = new Person("Olga", 160, 2);
         Identity cat = new Cat("Katy", 200, 3);
         Identity robot = new Robot("Vali", 100, 1);
